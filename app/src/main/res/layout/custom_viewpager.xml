@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textView_show_data_viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20px"
+            android:text="ffffffff người ơi quóc yêu em và muốn sống cùng em để cỏ cây hoa lá sẽ ghen khi tìm thấy nhau"
+            android:textSize="70px"
+            android:textColor="#100c09"
+            android:textStyle="bold"
+            android:textAlignment="textStart"/>
+    </ScrollView>
+
+</LinearLayout>
